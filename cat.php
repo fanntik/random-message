@@ -1,8 +1,8 @@
 <?php
 
 
-$names = array("Karolina", "cat", "kuzinatra");
-$index = rand(0, 2);
+$names = array("Karolina", "cat", "kuzinatra", "dog");
+$index = rand(0, 3);
 $name = $names[$index];
 
 
